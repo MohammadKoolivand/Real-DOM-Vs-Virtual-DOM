@@ -6,7 +6,8 @@
 
 ## Comparison between Real & Virtual DOM 
 
-`asasdasdasdasdghgasd`
+`React js & Vue Js use **Virtual DOM**`
+`Angular Js use **Real DOM**`
 
 
 ```js
