@@ -6,8 +6,8 @@
 
 ## Comparison between Real & Virtual DOM 
 
-`React js & Vue Js use **Virtual DOM**`
-`Angular Js use **Real DOM**`
+ **Virtual DOM** like :`React js & Vue Js use `
+**Real DOM** like :`Angular Js`
 
 
 ```js
