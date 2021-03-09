@@ -17,10 +17,13 @@
 
 
 ```js
-import sdkas;dasadasd
+import ReactDOM from 'react-dom'
 
-asdasd
-as
-das
-s
+document.getElementsByTagName('body')
+ReactDOM.render(
+  <ConfigProvider direction="rtl">
+    <App />
+  </ConfigProvider>,
+  document.getElementById('root')
+)
 ```
