@@ -27,3 +27,4 @@ ReactDOM.render(
 
 ## Conclusion
 
+**Virtual DOM** has many advantages over **Real DOM**. most important one is that updating elements in **Real DOM** structure take more time in comparison to **Virtual DOM**.
