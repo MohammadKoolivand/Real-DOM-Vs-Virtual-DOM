@@ -11,10 +11,7 @@
 ## Graphical deffinition
 ![dom](https://user-images.githubusercontent.com/48600357/110433327-8d272e80-80c5-11eb-8155-7eac90f235f4.png)
 
-## Comparison between Real & Virtual DOM 
-
-
-
+## Usage Sample in Code
 
 ```js
 import ReactDOM from 'react-dom'
@@ -27,3 +24,6 @@ ReactDOM.render(
   document.getElementById('root')
 )
 ```
+
+## Conclusion
+
